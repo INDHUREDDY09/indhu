@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/INDHUREDDY09/indhu/tree/master/0219-contains-duplicate-ii) |
 | [0705-design-hashset](https://github.com/INDHUREDDY09/indhu/tree/master/0705-design-hashset) |
 | [0977-squares-of-a-sorted-array](https://github.com/INDHUREDDY09/indhu/tree/master/0977-squares-of-a-sorted-array) |
 | [1472-design-browser-history](https://github.com/INDHUREDDY09/indhu/tree/master/1472-design-browser-history) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/INDHUREDDY09/indhu/tree/master/0219-contains-duplicate-ii) |
 | [0705-design-hashset](https://github.com/INDHUREDDY09/indhu/tree/master/0705-design-hashset) |
 ## Hash Function
 |  |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/INDHUREDDY09/indhu/tree/master/0977-squares-of-a-sorted-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/INDHUREDDY09/indhu/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
