@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/INDHUREDDY09/indhu/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/INDHUREDDY09/indhu/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/INDHUREDDY09/indhu/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/INDHUREDDY09/indhu/tree/master/0739-daily-temperatures) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/INDHUREDDY09/indhu/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/INDHUREDDY09/indhu/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/INDHUREDDY09/indhu/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/INDHUREDDY09/indhu/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/INDHUREDDY09/indhu/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/INDHUREDDY09/indhu/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/INDHUREDDY09/indhu/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
