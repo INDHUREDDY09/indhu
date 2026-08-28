@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/INDHUREDDY09/indhu/tree/master/0705-design-hashset) |
+| [0977-squares-of-a-sorted-array](https://github.com/INDHUREDDY09/indhu/tree/master/0977-squares-of-a-sorted-array) |
 | [1472-design-browser-history](https://github.com/INDHUREDDY09/indhu/tree/master/1472-design-browser-history) |
 ## Linked List
 |  |
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/INDHUREDDY09/indhu/tree/master/0705-design-hashset) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/INDHUREDDY09/indhu/tree/master/0977-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/INDHUREDDY09/indhu/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
