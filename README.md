@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/INDHUREDDY09/indhu/tree/master/0219-contains-duplicate-ii) |
+| [0704-binary-search](https://github.com/INDHUREDDY09/indhu/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/INDHUREDDY09/indhu/tree/master/0705-design-hashset) |
 | [0977-squares-of-a-sorted-array](https://github.com/INDHUREDDY09/indhu/tree/master/0977-squares-of-a-sorted-array) |
 | [1472-design-browser-history](https://github.com/INDHUREDDY09/indhu/tree/master/1472-design-browser-history) |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/INDHUREDDY09/indhu/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/INDHUREDDY09/indhu/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
