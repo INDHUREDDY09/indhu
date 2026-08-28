@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/INDHUREDDY09/indhu/tree/master/0705-design-hashset) |
 | [0977-squares-of-a-sorted-array](https://github.com/INDHUREDDY09/indhu/tree/master/0977-squares-of-a-sorted-array) |
 | [1472-design-browser-history](https://github.com/INDHUREDDY09/indhu/tree/master/1472-design-browser-history) |
+| [1480-running-sum-of-1d-array](https://github.com/INDHUREDDY09/indhu/tree/master/1480-running-sum-of-1d-array) |
 ## Linked List
 |  |
 | ------- |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/INDHUREDDY09/indhu/tree/master/0219-contains-duplicate-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/INDHUREDDY09/indhu/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
