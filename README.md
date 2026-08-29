@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/INDHUREDDY09/indhu/tree/master/0705-design-hashset) |
 | [0901-online-stock-span](https://github.com/INDHUREDDY09/indhu/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/INDHUREDDY09/indhu/tree/master/1472-design-browser-history) |
+| [1600-throne-inheritance](https://github.com/INDHUREDDY09/indhu/tree/master/1600-throne-inheritance) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/INDHUREDDY09/indhu/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/INDHUREDDY09/indhu/tree/master/0496-next-greater-element-i) |
 | [0705-design-hashset](https://github.com/INDHUREDDY09/indhu/tree/master/0705-design-hashset) |
+| [1600-throne-inheritance](https://github.com/INDHUREDDY09/indhu/tree/master/1600-throne-inheritance) |
 ## Hash Function
 |  |
 | ------- |
@@ -199,4 +201,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/INDHUREDDY09/indhu/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Tree
+|  |
+| ------- |
+| [1600-throne-inheritance](https://github.com/INDHUREDDY09/indhu/tree/master/1600-throne-inheritance) |
+## Depth-First Search
+|  |
+| ------- |
+| [1600-throne-inheritance](https://github.com/INDHUREDDY09/indhu/tree/master/1600-throne-inheritance) |
 <!---LeetCode Topics End-->
