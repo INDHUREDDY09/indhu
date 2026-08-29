@@ -1,7 +1,8 @@
-import java.util.*;
+// Java
+import java.util.Stack;
 
 class StockSpanner {
-    Stack<int[]> stack;
+    private Stack<int[]> stack;
 
     public StockSpanner() {
         stack = new Stack<>();
@@ -9,11 +10,10 @@ class StockSpanner {
 
     public int next(int price) {
         int span = 1;
-
-        while (!stack.isEmpty() && stack.peek()[0] <= price)
-            span += stack.pop()[1];
-
-        stack.push(new int[]{price, span});
+        while (!stack.isEmpty() && stack.peek()[0] <= price) {
+            span += stack.pop()[1]; // Add popped span
+        }
+        stack.push(new int[]{price, span}); // Store price and span
         return span;
     }
 }
