@@ -1,19 +1,34 @@
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        java.util.ArrayList<Integer> values = new java.util.ArrayList<>();
+        // Find middle
+        ListNode slow = head;
+        ListNode fast = head;
 
-        while (head != null) {
-            values.add(head.val);
-            head = head.next;
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
         }
 
-        int left = 0, right = values.size() - 1;
+        // Reverse second half
+        ListNode prev = null;
+        while (slow != null) {
+            ListNode next = slow.next;
+            slow.next = prev;
+            prev = slow;
+            slow = next;
+        }
 
-        while (left < right) {
-            if (!values.get(left).equals(values.get(right)))
+        // Compare both halves
+        ListNode left = head;
+        ListNode right = prev;
+
+        while (right != null) {
+            if (left.val != right.val) {
                 return false;
-            left++;
-            right--;
+            }
+
+            left = left.next;
+            right = right.next;
         }
 
         return true;
