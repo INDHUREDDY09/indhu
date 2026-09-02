@@ -11,10 +11,17 @@ class Solution {
                 current.next = list2;
                 list2 = list2.next;
             }
+
             current = current.next;
         }
 
-        current.next = (list1 != null) ? list1 : list2;
+        // Attach remaining nodes
+        if (list1 != null) {
+            current.next = list1;
+        } else {
+            current.next = list2;
+        }
+
         return dummy.next;
     }
 }
