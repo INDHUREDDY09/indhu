@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/INDHUREDDY09/indhu/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/INDHUREDDY09/indhu/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/INDHUREDDY09/indhu/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/INDHUREDDY09/indhu/tree/master/0334-increasing-triplet-subsequence) |
 | [0496-next-greater-element-i](https://github.com/INDHUREDDY09/indhu/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/INDHUREDDY09/indhu/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/INDHUREDDY09/indhu/tree/master/0705-design-hashset) |
@@ -209,4 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1600-throne-inheritance](https://github.com/INDHUREDDY09/indhu/tree/master/1600-throne-inheritance) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/INDHUREDDY09/indhu/tree/master/0334-increasing-triplet-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/INDHUREDDY09/indhu/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
