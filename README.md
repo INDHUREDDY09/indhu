@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/INDHUREDDY09/indhu/tree/master/0007-reverse-integer) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/INDHUREDDY09/indhu/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [3870-count-commas-in-range](https://github.com/INDHUREDDY09/indhu/tree/master/3870-count-commas-in-range) |
 ## Binary Search
