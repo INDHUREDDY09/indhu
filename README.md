@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/INDHUREDDY09/indhu/tree/master/0007-reverse-integer) |
 | [1154-day-of-the-year](https://github.com/INDHUREDDY09/indhu/tree/master/1154-day-of-the-year) |
+| [1185-day-of-the-week](https://github.com/INDHUREDDY09/indhu/tree/master/1185-day-of-the-week) |
 | [1360-number-of-days-between-two-dates](https://github.com/INDHUREDDY09/indhu/tree/master/1360-number-of-days-between-two-dates) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/INDHUREDDY09/indhu/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [3870-count-commas-in-range](https://github.com/INDHUREDDY09/indhu/tree/master/3870-count-commas-in-range) |
