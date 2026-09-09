@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/INDHUREDDY09/indhu/tree/master/1672-richest-customer-wealth) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/INDHUREDDY09/indhu/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1920-build-array-from-permutation](https://github.com/INDHUREDDY09/indhu/tree/master/1920-build-array-from-permutation) |
+| [2418-sort-the-people](https://github.com/INDHUREDDY09/indhu/tree/master/2418-sort-the-people) |
 ## Linked List
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/INDHUREDDY09/indhu/tree/master/0496-next-greater-element-i) |
 | [0705-design-hashset](https://github.com/INDHUREDDY09/indhu/tree/master/0705-design-hashset) |
 | [1600-throne-inheritance](https://github.com/INDHUREDDY09/indhu/tree/master/1600-throne-inheritance) |
+| [2418-sort-the-people](https://github.com/INDHUREDDY09/indhu/tree/master/2418-sort-the-people) |
 ## Hash Function
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/INDHUREDDY09/indhu/tree/master/0075-sort-colors) |
 | [0905-sort-array-by-parity](https://github.com/INDHUREDDY09/indhu/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/INDHUREDDY09/indhu/tree/master/0977-squares-of-a-sorted-array) |
+| [2418-sort-the-people](https://github.com/INDHUREDDY09/indhu/tree/master/2418-sort-the-people) |
 ## Sliding Window
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/INDHUREDDY09/indhu/tree/master/1154-day-of-the-year) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/INDHUREDDY09/indhu/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1360-number-of-days-between-two-dates](https://github.com/INDHUREDDY09/indhu/tree/master/1360-number-of-days-between-two-dates) |
+| [2418-sort-the-people](https://github.com/INDHUREDDY09/indhu/tree/master/2418-sort-the-people) |
 ## Queue
 |  |
 | ------- |
