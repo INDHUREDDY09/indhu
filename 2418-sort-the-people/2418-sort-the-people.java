@@ -8,7 +8,11 @@ class Solution {
             index[i] = i;
         }
 
-        Arrays.sort(index, (a, b) -> heights[b] - heights[a]);
+        Arrays.sort(index, new Comparator<Integer>() {
+            public int compare(Integer a, Integer b) {
+                return heights[b] - heights[a];
+            }
+        });
 
         String[] result = new String[names.length];
 
