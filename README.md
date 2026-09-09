@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/INDHUREDDY09/indhu/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/INDHUREDDY09/indhu/tree/master/1672-richest-customer-wealth) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/INDHUREDDY09/indhu/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1920-build-array-from-permutation](https://github.com/INDHUREDDY09/indhu/tree/master/1920-build-array-from-permutation) |
 ## Linked List
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/INDHUREDDY09/indhu/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/INDHUREDDY09/indhu/tree/master/0946-validate-stack-sequences) |
+| [1920-build-array-from-permutation](https://github.com/INDHUREDDY09/indhu/tree/master/1920-build-array-from-permutation) |
 ## Monotonic Queue
 |  |
 | ------- |
