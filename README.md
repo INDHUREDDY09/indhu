@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/INDHUREDDY09/indhu/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/INDHUREDDY09/indhu/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/INDHUREDDY09/indhu/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/INDHUREDDY09/indhu/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/INDHUREDDY09/indhu/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/INDHUREDDY09/indhu/tree/master/0219-contains-duplicate-ii) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/INDHUREDDY09/indhu/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/INDHUREDDY09/indhu/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/INDHUREDDY09/indhu/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/INDHUREDDY09/indhu/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
