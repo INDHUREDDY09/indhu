@@ -1,33 +1,36 @@
-import java.util.*;
-
 class Solution {
     public int[] asteroidCollision(int[] asteroids) {
+
         Stack<Integer> stack = new Stack<>();
 
-        for (int asteroid : asteroids) {
+        for (int a : asteroids) {
+
             boolean alive = true;
 
-            while (alive && asteroid < 0 &&
-                   !stack.isEmpty() && stack.peek() > 0) {
+            while (alive && a < 0 && !stack.isEmpty() && stack.peek() > 0) {
 
-                if (stack.peek() < -asteroid) {
+                if (stack.peek() < -a) {
                     stack.pop();
-                } else if (stack.peek() == -asteroid) {
+                }
+                else if (stack.peek() == -a) {
                     stack.pop();
                     alive = false;
-                } else {
+                }
+                else {
                     alive = false;
                 }
             }
 
-            if (alive)
-                stack.push(asteroid);
+            if (alive) {
+                stack.push(a);
+            }
         }
 
         int[] result = new int[stack.size()];
 
-        for (int i = 0; i < result.length; i++)
-            result[i] = stack.get(i);
+        for (int i = result.length - 1; i >= 0; i--) {
+            result[i] = stack.pop();
+        }
 
         return result;
     }
