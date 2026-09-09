@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/INDHUREDDY09/indhu/tree/master/0007-reverse-integer) |
+| [1360-number-of-days-between-two-dates](https://github.com/INDHUREDDY09/indhu/tree/master/1360-number-of-days-between-two-dates) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/INDHUREDDY09/indhu/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [3870-count-commas-in-range](https://github.com/INDHUREDDY09/indhu/tree/master/3870-count-commas-in-range) |
 ## Binary Search
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/INDHUREDDY09/indhu/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/INDHUREDDY09/indhu/tree/master/0387-first-unique-character-in-a-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/INDHUREDDY09/indhu/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1360-number-of-days-between-two-dates](https://github.com/INDHUREDDY09/indhu/tree/master/1360-number-of-days-between-two-dates) |
 ## Queue
 |  |
 | ------- |
