@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/INDHUREDDY09/indhu/tree/master/1154-day-of-the-year) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/INDHUREDDY09/indhu/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1360-number-of-days-between-two-dates](https://github.com/INDHUREDDY09/indhu/tree/master/1360-number-of-days-between-two-dates) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/INDHUREDDY09/indhu/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2418-sort-the-people](https://github.com/INDHUREDDY09/indhu/tree/master/2418-sort-the-people) |
 ## Queue
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/INDHUREDDY09/indhu/tree/master/0387-first-unique-character-in-a-string) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/INDHUREDDY09/indhu/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Recursion
 |  |
 | ------- |
