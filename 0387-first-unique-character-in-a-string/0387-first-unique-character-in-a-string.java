@@ -1,23 +1,17 @@
 class Solution {
-public int firstUniqChar(String s) {
+    public int firstUniqChar(String s) {
+       HashMap <Character, Integer> map = new HashMap<>();
 
-
-    int[] count = new int[26];
-    
-    // Count each character
-    for (int i = 0; i < s.length(); i++) {
-        count[s.charAt(i) - 'a']++;
-    }
-    
-    // Find the first character that appears only once
-    for (int i = 0; i < s.length(); i++) {
-        if (count[s.charAt(i) - 'a'] == 1) {
-            return i;
+        for(char ch : s.toCharArray()){
+            map.put(ch, map.getOrDefault(ch, 0)+1);
         }
+         for(int i = 0; i < s.length(); i++){
+            char ch =  s.charAt(i);
+
+            if(map.get(ch) == 1) {
+                return i;
+            }
+        }
+        return -1;  
     }
-    
-    return -1;
-}
-
-
 }
