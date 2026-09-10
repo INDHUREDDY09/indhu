@@ -1,28 +1,27 @@
-class Solution {
+/**
+ * Definition for singly-linked list.
+ * class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode(int x) {
+ *         val = x;
+ *         next = null;
+ *     }
+ * }
+ */
+public class Solution {
     public ListNode detectCycle(ListNode head) {
-        ListNode slow = head;
-        ListNode fast = head;
-
-        // Step 1: Detect whether a cycle exists
+         ListNode slow = head, fast = head;
         while (fast != null && fast.next != null) {
             slow = slow.next;
             fast = fast.next.next;
-
-            // Cycle detected
-            if (slow == fast) {
-                // Step 2: Find the starting node of the cycle
-                ListNode pointer = head;
-
-                while (pointer != slow) {
-                    pointer = pointer.next;
-                    slow = slow.next;
-                }
-
-                return pointer;
-            }
+            if (slow == fast) break;
         }
-
-        // No cycle
-        return null;
+        if (fast == null || fast.next == null) return null;
+        while (head != slow) {
+            head = head.next;
+            slow = slow.next;
+        }
+        return head;
     }
 }
