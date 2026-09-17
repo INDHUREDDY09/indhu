@@ -1,44 +1,35 @@
-class Pair implements Comparable<Pair> {
-    int num;
-    int index;
 
-    public Pair(int num, int index) {
-        this.num = num;
-        this.index = index;
-    }
-
-    @Override
-    public int compareTo(Pair pair) {
-        return pair.num - this.num;
-    }
-}
+import java.util.*;
 
 class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
+        int n = nums.length;
+        int[] result = new int[n - k + 1];
 
-        int[] ans = new int[nums.length - k + 1];
+        Deque<Integer> deque = new ArrayDeque<>();
+        int resultIndex = 0;
 
-        PriorityQueue<Pair> pq = new PriorityQueue<>();
+        for (int i = 0; i < n; i++) {
 
-        for (int i = 0; i < k; i++) {
-            pq.add(new Pair(nums[i], i));
-        }
-
-        ans[0] = pq.peek().num;
-
-        int j = 1;
-
-        for (int i = k; i < nums.length; i++) {
-
-            pq.add(new Pair(nums[i], i));
-
-            while (!pq.isEmpty() && pq.peek().index <= i - k) {
-                pq.poll();
+            while (!deque.isEmpty() && deque.peekFirst() <= i - k) {
+                deque.pollFirst();
             }
 
-            ans[j++] = pq.peek().num;
+           
+            while (!deque.isEmpty() && nums[deque.peekLast()] <= nums[i]) {
+                deque.pollLast();
+            }
+
+           
+            deque.offerLast(i);
+
+           
+            if (i >= k - 1) {
+                result[resultIndex++] = nums[deque.peekFirst()];
+            }
         }
 
-        return ans;
+        return result;
     }
 }
+
