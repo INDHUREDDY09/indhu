@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/INDHUREDDY09/indhu/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/INDHUREDDY09/indhu/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/INDHUREDDY09/indhu/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/INDHUREDDY09/indhu/tree/master/0199-binary-tree-right-side-view) |
 | [1600-throne-inheritance](https://github.com/INDHUREDDY09/indhu/tree/master/1600-throne-inheritance) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/INDHUREDDY09/indhu/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/INDHUREDDY09/indhu/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/INDHUREDDY09/indhu/tree/master/0199-binary-tree-right-side-view) |
 | [1600-throne-inheritance](https://github.com/INDHUREDDY09/indhu/tree/master/1600-throne-inheritance) |
 ## Greedy
@@ -284,12 +286,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/INDHUREDDY09/indhu/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/INDHUREDDY09/indhu/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/INDHUREDDY09/indhu/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/INDHUREDDY09/indhu/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/INDHUREDDY09/indhu/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/INDHUREDDY09/indhu/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/INDHUREDDY09/indhu/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/INDHUREDDY09/indhu/tree/master/0199-binary-tree-right-side-view) |
 ## Matrix
