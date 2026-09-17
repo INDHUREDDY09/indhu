@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/INDHUREDDY09/indhu/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/INDHUREDDY09/indhu/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/INDHUREDDY09/indhu/tree/master/0179-largest-number) |
+| [0257-binary-tree-paths](https://github.com/INDHUREDDY09/indhu/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/INDHUREDDY09/indhu/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/INDHUREDDY09/indhu/tree/master/0387-first-unique-character-in-a-string) |
 | [1154-day-of-the-year](https://github.com/INDHUREDDY09/indhu/tree/master/1154-day-of-the-year) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/INDHUREDDY09/indhu/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/INDHUREDDY09/indhu/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/INDHUREDDY09/indhu/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/INDHUREDDY09/indhu/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/INDHUREDDY09/indhu/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1600-throne-inheritance](https://github.com/INDHUREDDY09/indhu/tree/master/1600-throne-inheritance) |
 ## Depth-First Search
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/INDHUREDDY09/indhu/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/INDHUREDDY09/indhu/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/INDHUREDDY09/indhu/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/INDHUREDDY09/indhu/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/INDHUREDDY09/indhu/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1600-throne-inheritance](https://github.com/INDHUREDDY09/indhu/tree/master/1600-throne-inheritance) |
 ## Greedy
@@ -309,9 +312,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/INDHUREDDY09/indhu/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/INDHUREDDY09/indhu/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/INDHUREDDY09/indhu/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/INDHUREDDY09/indhu/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/INDHUREDDY09/indhu/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Matrix
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/INDHUREDDY09/indhu/tree/master/1672-richest-customer-wealth) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/INDHUREDDY09/indhu/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
